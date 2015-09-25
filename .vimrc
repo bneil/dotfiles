@@ -3,7 +3,7 @@
 "        \      /
 "         \____/
 "         /  __\     Welcome to Ben's Vimrc File
-"        |  / ..\      <benjamin@direwolfdigital.com>
+"        |  / ..\      <ben@neil-concepts.com>
 "        |  \_/\/
 "      __|   ___\
 "     /   \      \
